@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning by Yuki.Ichikawa</h1>
-    <h2>2022/11/14 9:04</h2>
+    <h2>2022/11/14 9:24</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
